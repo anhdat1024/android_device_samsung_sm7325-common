@@ -31,6 +31,6 @@
     <dimen name="qs_panel_padding_top">100dp</dimen>
 
     <!-- Margin on the left side of the carrier text on Keyguard -->
-    <dimen name="keyguard_carrier_text_margin">24dp</dimen>
+    <dimen name="keyguard_carrier_text_margin">12dp</dimen>
 
 </resources>
